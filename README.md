@@ -6,5 +6,8 @@
 <p>
   To run, simply clone the repo, run npm install, and then nvm exec npm start (it has a dependency on a certain version of node).
 </p>
+<hr>
+<br>
+<br>
 
 ![Alt text](./screenshot.png?raw=true "Concerts in Town")
